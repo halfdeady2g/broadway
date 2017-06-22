@@ -1,20 +1,50 @@
-h1{
+h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
   display: block;
   text-align: center;
 }
-.btn-nav{
+.btn-nav {
   font-size: 18px;
   color: white;
   text-align: center;
   display: block;
 
 }
-body{
+body {
   font-family: Helvetica;
+
 }
-.top{
-  background-image: url("resources/the-flatiron-building.png");
+.top {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+#process {
+  text-align: center;
+
+}
+div {
+  display: block;
+}
+.second-item {
+  text-align: center;
+
+}
+#small-banner {
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+p {
+  display: block;
+}
+
+.footer {
+  background-color: dimgrey;
+  font-size: 11px;
+  color: white;
+  display: block;
+
+}
+.footer a {
+  display: inline;
 }
